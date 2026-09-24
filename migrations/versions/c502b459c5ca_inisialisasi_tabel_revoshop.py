@@ -1,8 +1,8 @@
-"""create initial tables
+"""Inisialisasi tabel RevoShop
 
-Revision ID: 5937592c328d
+Revision ID: c502b459c5ca
 Revises: 
-Create Date: 2026-09-24 20:42:17.507123
+Create Date: 2026-09-24 21:50:23.757379
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '5937592c328d'
+revision = 'c502b459c5ca'
 down_revision = None
 branch_labels = None
 depends_on = None
